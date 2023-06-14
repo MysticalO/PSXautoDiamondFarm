@@ -1582,7 +1582,7 @@ wait(1)
 function sHopper()
     local endpoint = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/6284583030/servers/Public?sortOrder=Asc&limit=100'))
     bestserver = {
-        p = 0
+        p = 1
     }
     function shuffleTable(tbl)
         local size = #tbl
