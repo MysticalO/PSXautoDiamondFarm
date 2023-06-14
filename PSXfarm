@@ -34,7 +34,7 @@ Settings = {
     },
     ["Fruit"] = {
         ["Farm Fruit If Low"] = true,
-        ["Min Fruit"] = 100, -- Starts Farming If Below This
+        ["Min Fruit"] = 150, -- Starts Farming If Below This
         ["Max Fruit"] = 200, -- Stops Farming Once Above This
         ["Mode"] = "Mystic Mine" -- Pixel Vault or Server Hop
     },
