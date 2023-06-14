@@ -1460,7 +1460,7 @@ function WH()
             ["embeds"] = {
 			    {
 			      ["title"] = "Server Hop Stat Update (v3)",
-			      ["description"] = "Successfully Broke Everything In Server. Hopping To New Server!",
+			      ["description"] = "Successfully FUCKED sewys mom. Hopping To Hit That Shit Again!",
 			      ["color"] = tonumber(0x0f0063),
 			      ["fields"] = {
 			        {
@@ -1492,7 +1492,7 @@ local gui = Instance.new("SurfaceGui")
 gui.Parent = p
 gui.Face = Enum.NormalId.Top
 local textLabel = Instance.new("TextLabel")
-textLabel.Text = "Gem Farmer Made By henrymistert#3888 (.gg/henrymistert)"
+textLabel.Text = "just because im 4 foot 9 and weigh 473 pounds doesnt mean im fat"
 textLabel.Size = UDim2.new(1, 0, 1, 0)
 textLabel.BackgroundColor3 = Color3.new(1, 1, 1)
 textLabel.TextColor3 = Color3.new(0, 0, 0)
